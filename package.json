@@ -14,7 +14,7 @@
     "methods": "1.1.1",
     "odata-parser": "1.2.0",
     "path-to-regexp": "1.0.3",
-    "xmlbuilder": "2.5.0"
+    "xmlbuilder": "4.2.1"
   },
   "devDependencies": {
     "mocha": "2.2.1",
